@@ -1,0 +1,5 @@
+to improve: 
+- let text be shown in its entirety in textbox1;
+- introduce keyboard interaction in the code;
+- do scientific calculations;
+- design;

@@ -1,0 +1,35 @@
+c:\users\elev\documents\visual studio 2012\Projects\calculator\calculator\bin\Debug\calculator.exe.config
+c:\users\elev\documents\visual studio 2012\Projects\calculator\calculator\bin\Debug\calculator.exe
+c:\users\elev\documents\visual studio 2012\Projects\calculator\calculator\bin\Debug\calculator.pdb
+c:\users\elev\documents\visual studio 2012\Projects\calculator\calculator\obj\Debug\calculator.csprojResolveAssemblyReference.cache
+c:\users\elev\documents\visual studio 2012\Projects\calculator\calculator\obj\Debug\calculator.Form1.resources
+c:\users\elev\documents\visual studio 2012\Projects\calculator\calculator\obj\Debug\calculator.Properties.Resources.resources
+c:\users\elev\documents\visual studio 2012\Projects\calculator\calculator\obj\Debug\calculator.csproj.GenerateResource.Cache
+c:\users\elev\documents\visual studio 2012\Projects\calculator\calculator\obj\Debug\calculator.exe
+c:\users\elev\documents\visual studio 2012\Projects\calculator\calculator\obj\Debug\calculator.pdb
+D:\11 E\Code Blocks\calculator\calculator\bin\Debug\calculator.exe.config
+D:\11 E\Code Blocks\calculator\calculator\obj\Debug\calculator.exe
+D:\11 E\Code Blocks\calculator\calculator\obj\Debug\calculator.pdb
+D:\11 E\Code Blocks\calculator\calculator\bin\Debug\calculator.exe
+D:\11 E\Code Blocks\calculator\calculator\bin\Debug\calculator.pdb
+D:\11 E\Code Blocks\calculator\calculator\obj\Debug\calculator.Form1.resources
+D:\11 E\Code Blocks\calculator\calculator\obj\Debug\calculator.Properties.Resources.resources
+D:\11 E\Code Blocks\calculator\calculator\obj\Debug\calculator.csproj.GenerateResource.Cache
+D:\11 E\c#\calculator\calculator\bin\Debug\calculator.exe.config
+D:\11 E\c#\calculator\calculator\obj\Debug\calculator.exe
+D:\11 E\c#\calculator\calculator\obj\Debug\calculator.pdb
+D:\11 E\c#\calculator\calculator\bin\Debug\calculator.exe
+D:\11 E\c#\calculator\calculator\bin\Debug\calculator.pdb
+D:\11 E\c#\calculator\calculator\obj\Debug\calculator.csprojResolveAssemblyReference.cache
+D:\11 E\c#\calculator\calculator\obj\Debug\calculator.Form1.resources
+D:\11 E\c#\calculator\calculator\obj\Debug\calculator.Properties.Resources.resources
+D:\11 E\c#\calculator\calculator\obj\Debug\calculator.csproj.GenerateResource.Cache
+D:\DOCs\C#\calc\calculator\bin\Debug\calculator.exe.config
+D:\DOCs\C#\calc\calculator\obj\Debug\calculator.exe
+D:\DOCs\C#\calc\calculator\obj\Debug\calculator.pdb
+D:\DOCs\C#\calc\calculator\bin\Debug\calculator.exe
+D:\DOCs\C#\calc\calculator\bin\Debug\calculator.pdb
+D:\DOCs\C#\calc\calculator\obj\Debug\calculator.csprojResolveAssemblyReference.cache
+D:\DOCs\C#\calc\calculator\obj\Debug\calculator.Form1.resources
+D:\DOCs\C#\calc\calculator\obj\Debug\calculator.Properties.Resources.resources
+D:\DOCs\C#\calc\calculator\obj\Debug\calculator.csproj.GenerateResource.Cache
